@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevetion_actionbar">4dp</dimen>
+    <dimen name="elevetion_action_button">12dp</dimen>
+
+    <dimen name="ancho_huella">30dp</dimen>
+    <dimen name="ancho_titulo">200dp</dimen>
+    <dimen name="tamaño_letra_titulo">20dp</dimen>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="alto_hueso_amarillo">40dp</dimen>
+    <dimen name="ancho_hueso_amarillo">40dp</dimen>
+
+    <dimen name="alto_hueso_blanco">30dp</dimen>
+    <dimen name="ancho_hueso_blanco">30dp</dimen>
+
+    <dimen name="alto_foto">150dp</dimen>
+
+    <dimen name="alto_FAB">55dp</dimen>
+</resources>

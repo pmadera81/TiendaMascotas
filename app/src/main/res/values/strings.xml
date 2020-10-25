@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tienda de mascotas</string>
+    <string name="pnombreMascota">nombreMascota</string>
+    <string name="pcantidadRaiting">0</string>
+</resources>
